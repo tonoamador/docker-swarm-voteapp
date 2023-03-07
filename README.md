@@ -5,7 +5,7 @@ A simple voting app deployed with Docker Swarm
 
 Here is a basic diagram of how the 5 services will work:
 
-![diagram]()
+![diagram](https://github.com/tonoamador/docker-swarm-voteapp/blob/main/architecture.png)
 
 - All images are on Docker Hub, so you should use editor to craft your commands locally,
 then paste them into swarm shell (at least that's how I'd do it)
